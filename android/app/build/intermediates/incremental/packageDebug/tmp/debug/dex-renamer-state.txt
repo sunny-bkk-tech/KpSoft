@@ -1,0 +1,4 @@
+#Wed Jul 24 15:04:00 ICT 2019
+base.0=/Users/kpsl/Documents/testDir/testingApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
